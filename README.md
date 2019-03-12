@@ -12,5 +12,6 @@
 # To run the test cases:
 #### Step 1. Make sure the application is built per the steps 1 - 4 above.
 #### Step 2. Go to extracted folder on the command prompt
-#### Step 3. Use below command to run the main Test Class:
-    Example: c:\sortpizzaorder>java -jar -jar target\SortPizzaOrders-0.0.1-SNAPSHOT.jar com.pizza.order.SortPizzaOrdersAppTest
+#### Step 3. Use below command to run the test suite:
+    Example: c:\sortpizzaorder>mvn -Dtest=com.pizza.order.RunAllTests test
+#### Step 4. check console output or target\surefire-reports directory for test reports.

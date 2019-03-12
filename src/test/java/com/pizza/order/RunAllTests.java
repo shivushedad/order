@@ -11,7 +11,7 @@ import com.pizza.order.service.impl.OrderServiceImplTest;
 import com.pizza.order.util.DateUtilTest;
 
 @RunWith(Suite.class)
-@SuiteClasses({ SortPizzaOrdersAppTest.class, OrderControllerTest.class, OrderServiceImplTest.class,
+@SuiteClasses({ OrderControllerTest.class, OrderServiceImplTest.class,
 		OrderDaoImplTest.class, OrderTest.class, DateUtilTest.class })
 public class RunAllTests {
 
