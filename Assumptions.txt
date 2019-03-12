@@ -1,0 +1,7 @@
+Assumptions
+***********
+1. Input or source file is a text file
+2. Only two column in the file
+3. Each line has two values, name and ordered time
+4. Time column is in Epoch date format
+5. User need to provide the source file and destination file to run the program.
