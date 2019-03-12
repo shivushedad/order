@@ -1,3 +1,7 @@
+# Prerequisites
+1. Java 1.7+
+2. Maven
+
 # Follow these steps to run the code.
 #### Step 1: Click "Clone or Download" then click "Download Zip".
 #### Step 2: Extract the zip file in your local machine.
